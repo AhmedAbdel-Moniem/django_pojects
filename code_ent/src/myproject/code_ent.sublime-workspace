@@ -1,0 +1,469 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "settings.py",
+			"settings":
+			{
+				"buffer_size": 3164,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ahmed/Desktop/Django_Projects/code_ent/src/app_one/models.py",
+			"settings":
+			{
+				"buffer_size": 216,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ahmed/Desktop/Django_Projects/code_ent/src/app_one/admin.py",
+			"settings":
+			{
+				"buffer_size": 117,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "from django.db import models\n\n# Create your models here.\nclass myapplication(models.Model):\n\titem_name  = models.TextField()\n\tprice      = models.TextField()\n\tdescription= models.TextField()\n\tsummary    = models.TextField()",
+			"file": "/home/ahmed/Desktop/Django_Projects/code_ent/src/Products/models.py",
+			"file_size": 218,
+			"file_write_time": 132340622077914467,
+			"settings":
+			{
+				"buffer_size": 223,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "urls.py",
+			"settings":
+			{
+				"buffer_size": 752,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"path",
+				"Package Control: Add Channel"
+			],
+			[
+				"bash",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"subl",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"python path",
+				"Build With: Python - Syntax Check"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/app_one",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/myproject",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/myproject/__pycache__"
+	],
+	"file_history":
+	[
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/myapp/admin.py",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/myproject/urls.py",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/myapp/views.py",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/myapp/models.py",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/myproject/settings.py",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/manage.py",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/myapp/urls.py",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/products/models.py",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/products/admin.py",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/Products/admin.py",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/Products/models.py",
+		"/home/ahmed/Desktop/DS-Algo/z.py",
+		"/home/ahmed/Desktop/DS-Algo/y.py",
+		"/home/ahmed/Desktop/DS-Algo/x.py",
+		"/home/ahmed/Desktop/DS-Algo/linked_list/linked_list.py",
+		"/home/ahmed/Desktop/DS-Algo/linked_list/Doubly_linked_list_all_operations.py",
+		"/home/ahmed/Desktop/DS-Algo/linked_list/Doubly_linked_list/Doubly_addNodeb4nAfter.py",
+		"/home/ahmed/Desktop/DS-Algo/linked_list/Doubly_linked_list/Doubly_append_prepend.py",
+		"/home/ahmed/Desktop/DS-Algo/Dequeue_collections_module.py",
+		"/home/ahmed/Desktop/DS-Algo/Dequeue.py",
+		"/home/ahmed/Desktop/y.py",
+		"/media/ahmed/New Volume/Ahmed/scripts/DS & Algo Implementations/qrcode_prog.py",
+		"/home/ahmed/Desktop/DS-Algo/linked_list.py",
+		"/home/ahmed/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/python3.sublime-build",
+		"/tmp/kite_tutorial.py",
+		"/home/ahmed/Desktop/x.py",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/p3",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/py3",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/python3"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1131,
+								1131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 111.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/ahmed/Desktop/Django_Projects/code_ent/src/app_one/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/ahmed/Desktop/Django_Projects/code_ent/src/app_one/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/ahmed/Desktop/Django_Projects/code_ent/src/Products/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								752,
+								752
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 209.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "code_ent.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
