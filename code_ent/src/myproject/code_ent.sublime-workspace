@@ -3,62 +3,75 @@
 	{
 		"selected_items":
 		[
+			[
+				"so",
+				"sort_odd\tfunction"
+			],
+			[
+				"sor",
+				"sort_odd〔function〕"
+			],
+			[
+				"ne",
+				"new_list\tstatement"
+			],
+			[
+				"sort",
+				"sort_odd_reversed"
+			],
+			[
+				"new",
+				"new_list2〔variable〕"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"cla",
+				"class\tkeyword"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "settings.py",
+			"file": "/home/ahmed/Desktop/z.py",
 			"settings":
 			{
-				"buffer_size": 3164,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/ahmed/Desktop/Django_Projects/code_ent/src/app_one/models.py",
-			"settings":
-			{
-				"buffer_size": 216,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/ahmed/Desktop/Django_Projects/code_ent/src/app_one/admin.py",
-			"settings":
-			{
-				"buffer_size": 117,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "from django.db import models\n\n# Create your models here.\nclass myapplication(models.Model):\n\titem_name  = models.TextField()\n\tprice      = models.TextField()\n\tdescription= models.TextField()\n\tsummary    = models.TextField()",
-			"file": "/home/ahmed/Desktop/Django_Projects/code_ent/src/Products/models.py",
-			"file_size": 218,
-			"file_write_time": 132340622077914467,
-			"settings":
-			{
-				"buffer_size": 223,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "urls.py",
-			"settings":
-			{
-				"buffer_size": 752,
+				"buffer_size": 431,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "",
+	"build_system": "Anaconda Python Builder",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
 		[
 			[
 				[
@@ -84,12 +97,24 @@
 		"selected_items":
 		[
 			[
-				"pack",
-				"Build With: Python - Syntax Check"
+				"ins",
+				"Package Control: Install Package"
 			],
 			[
 				"remove",
 				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Build With: Python - Syntax Check"
 			],
 			[
 				"insta",
@@ -167,17 +192,23 @@
 	],
 	"file_history":
 	[
-		"/home/ahmed/Desktop/Django_Projects/code_ent/src/myapp/admin.py",
+		"/home/ahmed/Desktop/Competitive_Programming/sort_odds_in_arr.py",
+		"/home/ahmed/Desktop/competitive_programming/sort_odds _in_arr.py",
+		"/home/ahmed/Desktop/z.py",
+		"/home/ahmed/Desktop/y.py",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/Products/models.py",
 		"/home/ahmed/Desktop/Django_Projects/code_ent/src/myproject/urls.py",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/app_one/admin.py",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/app_one/models.py",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/myproject/settings.py",
+		"/home/ahmed/Desktop/Django_Projects/code_ent/src/myapp/admin.py",
 		"/home/ahmed/Desktop/Django_Projects/code_ent/src/myapp/views.py",
 		"/home/ahmed/Desktop/Django_Projects/code_ent/src/myapp/models.py",
-		"/home/ahmed/Desktop/Django_Projects/code_ent/src/myproject/settings.py",
 		"/home/ahmed/Desktop/Django_Projects/code_ent/src/manage.py",
 		"/home/ahmed/Desktop/Django_Projects/code_ent/src/myapp/urls.py",
 		"/home/ahmed/Desktop/Django_Projects/code_ent/src/products/models.py",
 		"/home/ahmed/Desktop/Django_Projects/code_ent/src/products/admin.py",
 		"/home/ahmed/Desktop/Django_Projects/code_ent/src/Products/admin.py",
-		"/home/ahmed/Desktop/Django_Projects/code_ent/src/Products/models.py",
 		"/home/ahmed/Desktop/DS-Algo/z.py",
 		"/home/ahmed/Desktop/DS-Algo/y.py",
 		"/home/ahmed/Desktop/DS-Algo/x.py",
@@ -187,7 +218,6 @@
 		"/home/ahmed/Desktop/DS-Algo/linked_list/Doubly_linked_list/Doubly_append_prepend.py",
 		"/home/ahmed/Desktop/DS-Algo/Dequeue_collections_module.py",
 		"/home/ahmed/Desktop/DS-Algo/Dequeue.py",
-		"/home/ahmed/Desktop/y.py",
 		"/media/ahmed/New Volume/Ahmed/scripts/DS & Algo Implementations/qrcode_prog.py",
 		"/home/ahmed/Desktop/DS-Algo/linked_list.py",
 		"/home/ahmed/.config/sublime-text-3/Packages/Python/Python.sublime-build",
@@ -231,87 +261,107 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "settings.py",
+					"file": "/home/ahmed/Desktop/z.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3164,
+						"buffer_size": 431,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1131,
-								1131
+								267,
+								267
 							]
 						],
 						"settings":
 						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"show_definitions": false,
 							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 111.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/ahmed/Desktop/Django_Projects/code_ent/src/app_one/models.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 216,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								69,
-								69
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/ahmed/Desktop/Django_Projects/code_ent/src/app_one/admin.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 117,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								117,
-								117
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -319,64 +369,12 @@
 					},
 					"stack_index": 0,
 					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/ahmed/Desktop/Django_Projects/code_ent/src/Products/models.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 223,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								223,
-								223
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 752,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								752,
-								752
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
 				}
+			]
+		},
+		{
+			"sheets":
+			[
 			]
 		}
 	],
@@ -397,11 +395,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -413,13 +418,13 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 209.0
+		"height": 108.0
 	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "",
+	"pinned_build_system": "Packages/User/python3.sublime-build",
 	"project": "code_ent.sublime-project",
 	"replace":
 	{
@@ -453,15 +458,15 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_visible": false,
+	"side_bar_width": 240.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
