@@ -15,8 +15,36 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from .views import *
+from django.views.generic.base import RedirectView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('student/', include('student.urls')),
-]
+    #Function Based Redirecting
+    path('redirect/', data_flair),
+    path('dataflair/', index),
+    
+    #  Built-In Class Based Redirecting
+    path('google/', RedirectView.as_view(url="https://www.google.com")),
+    # Class Based Redirecting
+    path('yahoo/',RedirectingClass.as_view()),
+    
+    # Simple Cookies
+    path('setcookie/', setcookie),
+    path('showcookie/', showcookie),
+
+    # Advanced using request.COOKIES.Get()
+    path('setcookieagain/', setcookieagain),
+    path('showcookieagain/', showcookieagain),
+    
+    # check supporting cookie by browser to work with sessions.
+    path('cookiesession/', cookie_session),
+    path('cookiedelete/', cookie_delete),
+
+    # Creating & Accessing& Delete SESSION.
+    path('create/', create_session),
+    path('access/', access_session),
+    path('delete/', delete_session),
+
+ ]
