@@ -1,0 +1,7 @@
+* class based with templateview.
+
+* extending templates (ex.base, home n about).
+
+*testing.
+
+* Heroku     tranquil-big-bend-77614
