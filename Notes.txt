@@ -1,0 +1,17 @@
+Javascript, W3schools.com
+
+array sort|The Fisher Yates Method
+
+--------------------------------------------------
+Mark Lutz Learning Python 
+
+Part 4, Functions & Generators, page 490
+--------------------------------------------------
+Brian Ward - How Linux works 
+
+page 32
+--------------------------------------------------
+Django for Beginners
+
+page 120  chapter 6 FORMS
+--------------------------------------------------
