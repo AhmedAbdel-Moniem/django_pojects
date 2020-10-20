@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b182590-aa19-40f0-ba2a-f0dcbcb5ef83" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/accounts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../news/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/../news/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../news/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../news/newspaper_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../news/newspaper_project/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1inNYdcg0iNcXYXasRhfVMcjaTH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../main/main2.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.main3">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="custom_user_model" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../main" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../main/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="custom_user_model" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../main" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../main/main2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="custom_user_model" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../main" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../main/main3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main2" />
+      <item itemvalue="Python.main3" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main3" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b182590-aa19-40f0-ba2a-f0dcbcb5ef83" name="Default Changelist" comment="" />
+      <created>1602539444818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602539444818</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="243" width="529" height="305" key="#Notifications" timestamp="1602539549983">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="414" y="243" width="529" height="305" key="#Notifications/0.25.1366.743@0.25.1366.743" timestamp="1602539549983" />
+    <state x="0" y="53" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602697137171">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="0" y="53" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1366.743@0.25.1366.743" timestamp="1602697137171" />
+    <state x="466" y="134" width="426" height="481" key="FileChooserDialogImpl" timestamp="1603086535404">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="466" y="134" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1603086535404" />
+    <state x="466" y="155" width="426" height="481" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1602697132379" />
+    <state width="729" height="128" key="GridCell.Tab.0.bottom" timestamp="1603055575610">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="729" height="128" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603055575610" />
+    <state width="726" height="177" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1602697623182" />
+    <state width="729" height="128" key="GridCell.Tab.0.center" timestamp="1603055575609">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="729" height="128" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603055575609" />
+    <state width="726" height="177" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1602697623181" />
+    <state width="729" height="128" key="GridCell.Tab.0.left" timestamp="1603055575608">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="729" height="128" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603055575608" />
+    <state width="726" height="177" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1602697623181" />
+    <state width="729" height="128" key="GridCell.Tab.0.right" timestamp="1603055575610">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="729" height="128" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603055575610" />
+    <state width="726" height="177" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1602697623182" />
+    <state x="187" y="7" key="SettingsEditor" timestamp="1603046221264">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="187" y="7" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1603046221264" />
+    <state x="187" y="32" key="SettingsEditor/0.25.1366.743@0.25.1366.743" timestamp="1602540243116" />
+  </component>
+</project>
