@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from myapp.views import my_main_page, about_page, myform_view
+from myapp.views import my_main_page, about_page,myform_view, dynamic_url_view
 
 
 urlpatterns = [
@@ -23,5 +23,6 @@ urlpatterns = [
     path('', my_main_page, name='home'),
     path('about/', about_page, name='about'),
     path('create_form/', myform_view, name='create_form'),
-    # path('create_form2/' ,myform2_view, name='create_form2'),
+    # path('create_form2/', render_initial_data, name='create_form2'),
+    path('product/<int:my_id>', dynamic_url_view, name='dynamic_url')
 ]
