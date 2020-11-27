@@ -1,4 +1,5 @@
-from django.shortcuts import render
+from django.http import Http404
+from django.shortcuts import render, get_object_or_404, redirect, HttpResponseRedirect
 
 from .forms import MyForm
 
@@ -95,6 +96,23 @@ def myform_view(request):
 #     }
 #     return render(request, 'product/form_two.html', context)
 def dynamic_url_view(request, my_id):
-    obj = Product.objects.get(id=my_id)
+    # could be handled by Http404
+    obj = get_object_or_404(Product, id=my_id)
+    # obj = Product.objects.get(id=my_id)
     context = {'objects': obj}
     return render(request, 'product/product_detail.html', context)
+
+
+def delete_object_view(request, my_id):
+    obj = get_object_or_404(Product, id=my_id)
+    if request.method == 'POST':
+        obj.delete()
+        return redirect('home')
+    context = {'objects': obj}
+    return render(request, 'product/delete_obj.html', context)
+
+
+def database_list_view(request):
+    queryset = Product.objects.all()
+    context = {'object_list': queryset}
+    return render(request, 'product/product_list.html', context)
