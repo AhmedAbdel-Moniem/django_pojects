@@ -13,4 +13,4 @@ class Product(models.Model):
         return self.title + ' | ' + self.hint
 
     def get_absolute_url(self):
-        return reverse('myapp:list', kwargs={'id': self.id})
+        return reverse('myapp:list_items', kwargs={'id': self.id})

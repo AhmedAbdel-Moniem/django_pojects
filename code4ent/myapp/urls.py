@@ -9,6 +9,6 @@ app_name = 'myapp'
 urlpatterns = [
     path('<int:my_id>/', dynamic_url_view, name='myapp-detail'),
     path('<int:my_id>/delete/', delete_object_view, name='delete'),
-    path('list/', database_list_view, name='list'),
+    path('my_list/', database_list_view, name='list_items'),
 ]
 

@@ -1,18 +1,19 @@
 {% extends 'base.html' %}
 
 {% block content %}
-    {{ object_list }}
     {% for instance in object_list %}
         <ul>
         <li>
             <p>
-            <a href="{{  instance.get_absolute_url }}">
-                {{ instance.id }}
-                {{ instance.title }}
-            </a>
+{#            <a href="{{  instance.get_absolute_url }}">#}
+                <a href="{% url 'my_list '  %}">
+                    {{  instance.get_absolute_url }}
+                    {{ instance.id }}
+                    {{ instance.title }}
+                </a>
             </p>
         </li>
         </ul>
-
+{#        <a href="{% url 'myapp:my_list' instance.title %}"></a>#}
     {% endfor %}
 {% endblock %}
