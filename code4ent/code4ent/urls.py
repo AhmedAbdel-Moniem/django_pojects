@@ -14,5 +14,7 @@ urlpatterns = [
     path('myapp/', include('myapp.urls')),
     path('blog/', include('blog.urls')),
     # path('create_form2/', render_initial_data, name='create_form2'),
+    # courses app
+    path('courses/', include('courses.urls')),
 
 ]
