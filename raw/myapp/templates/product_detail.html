@@ -1,0 +1,10 @@
+
+{% extends 'index.html' %}
+<h2>index2 extended from index1</h2>
+
+{% block content %}
+    <h3>
+        {{ object.id }}--  {{object.title}}
+    </h3>
+{% endblock content %}
+    

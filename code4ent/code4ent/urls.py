@@ -17,4 +17,7 @@ urlpatterns = [
     # courses app
     path('courses/', include('courses.urls')),
 
+    # Raw
+    path('raws/', include('raws.urls'),)
+
 ]
