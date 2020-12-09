@@ -18,6 +18,9 @@ urlpatterns = [
     path('courses/', include('courses.urls')),
 
     # Raw
-    path('raws/', include('raws.urls'),)
+    path('raws/', include('raws.urls'),),
+
+    # API
+    path('api/', include('myapi.urls')),
 
 ]

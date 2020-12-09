@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'blog.apps.BlogConfig',
     'courses.apps.CoursesConfig',
     'raws.apps.RawsConfig',
+    'myapi.apps.MyapiConfig', # Basic API
 ]
 
 MIDDLEWARE = [
