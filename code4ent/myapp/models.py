@@ -9,8 +9,8 @@ class Product(models.Model):
     summary = models.TextField()
     price = models.DecimalField(max_digits=2, decimal_places=True)
 
-    def __str__(self):
-        return self.title + ' | ' + self.hint
+    def __repr(self):
+        return str(self.title + ' | ' + self.hint)
 
     def get_absolute_url(self):
         return reverse('myapp:list_items', kwargs={'id': self.id})

@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'code4ent.apps.SuitConfig', # theme
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
