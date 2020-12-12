@@ -3,5 +3,5 @@ from .views import article_list
 from .models import Article
 
 urlpatterns = [
-    path('api', article_list, name='api' )
+    path('myapi/', article_list, name='myapi' ),
 ]
