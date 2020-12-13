@@ -1,4 +1,5 @@
 from django.urls.conf import path
+from rest_framework.urlpatterns import format_suffix_patterns
 from .views import (
     article_list,
     article_detail,
@@ -11,15 +12,13 @@ from .views import (
     ArticleDetailGeneric,
     ArticleListGeneric,
 )
-from .models import Article
-from rest_framework.urlpatterns import format_suffix_patterns
 
 
 urlpatterns = [
     # function api
     path('fapi/', article_list),
     path('fapi/<int:pk>/', article_detail),
-    
+
     # class apis
     path('capi/', ArticleList.as_view()),
     path('capi/<int:pk>/', ArticleDetail.as_view()),

@@ -6,8 +6,7 @@ from rest_framework import serializers
 from rest_framework.serializers import Serializer
 from .models import Article
 from .api.serializers import ArticleSerializer
-from django.http import JsonResponse
-from rest_framework.parsers import JSONParser
+
 from rest_framework import status
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
