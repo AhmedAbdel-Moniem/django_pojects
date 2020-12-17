@@ -1,1 +1,2 @@
-print ('ksfjbkejbvke')
+def f():
+	print('hi')
