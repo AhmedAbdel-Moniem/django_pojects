@@ -1,6 +1,5 @@
 from __future__ import print_function
 
-
 class Employee:
     def __init__(self, name, salary=0):
         self.name   = name
@@ -29,7 +28,7 @@ class Server(Employee):
         Employee.__init__(self, name, 40000)
 
         def work(self):
-            print(self.name, "interfaces with customer")
+            print(self.name, "interfaces with customers")
 
 
 class PizzaRobot(Chef):
