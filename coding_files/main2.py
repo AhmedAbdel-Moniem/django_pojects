@@ -1,4 +1,15 @@
-l = dir(object)
+class Spam:
+    numInstance = 0
+    def __init__(self):
+        Spam.numInstance += 1
+    @ staticmethod
+    def printNumInstance():
+        print(Spam.numInstance)
 
-for i in l:
-    print(i)
+a = Spam()
+b = Spam()
+c = Spam()
+d = Spam()
+
+Spam.printNumInstance()
+c.printNumInstance()

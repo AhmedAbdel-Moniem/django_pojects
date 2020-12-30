@@ -1,2 +1,4 @@
-Learning Python - Mark Lutz :	page => 1035
+Learning Python - Mark Lutz :	page => 1072
 
+
+Eloquent JavaScript -           page => 41
