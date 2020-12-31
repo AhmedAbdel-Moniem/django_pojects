@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>vue</title>
+  </head>
+
+  <body>
+    <div id="ahmed">
+      <p>{{ isSubscribed ? "you are subscribed": "not subscribed" }}</p>
+      <p>{{ name }}</p>
+      <p>{{myFunc()}}</p>
+    </div>
+    <script src="js/vue.js"></script>
+    <script>
+      var vm = new Vue({
+        el: "#ahmed",
+        data: {
+          name: "Ahmed Abdel-Moniem",
+          date: 'Date'
+          age: 35,
+          skills: ["html", "css", "js"],
+          isSubscribed: true,
+        },
+        methods: {
+          myFunc: function () {
+            return ;
+          },
+        },
+      });
+    </script>
+  </body>
+</html>

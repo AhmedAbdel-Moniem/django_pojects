@@ -1,4 +1,4 @@
 Learning Python - Mark Lutz :	page => 1072
 
 
-Eloquent JavaScript -           page => 49  Closure
+Eloquent JavaScript -           page => 60 
