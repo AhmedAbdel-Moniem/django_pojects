@@ -1,4 +1,7 @@
-Learning Python - Mark Lutz :	page => 1072
+Learning Python - Mark Lutz :	page => 1090
+Traditional Superclass Call Form: Portable, General
+
+
 
 
 Eloquent JavaScript -           page => 60 
