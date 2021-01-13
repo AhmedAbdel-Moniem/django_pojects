@@ -37,3 +37,4 @@ if __name__ == "__main__":
     scene.order('Homer')
     print('...')
     scene.order('Shaggy')
+

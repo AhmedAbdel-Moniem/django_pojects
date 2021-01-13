@@ -1,7 +1,15 @@
-Learning Python - Mark Lutz :	page => 1090
-Traditional Superclass Call Form: Portable, General
+Learning Python - Mark Lutz :	page => 1109
+
+Test Your Knowledge: Part VI Exercises
 
 
+==============================================================
 
 
-Eloquent JavaScript -           page => 60 
+Eloquent JavaScript -           page => 220
+
+
+================================================
+
+
+21799120
