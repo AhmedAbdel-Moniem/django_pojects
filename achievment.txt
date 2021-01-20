@@ -1,6 +1,8 @@
 Learning Python - Mark Lutz :	page => 1261
 
-Managed Attributes
+==============================================================
+
+Antonio Mele - Django 3 by example:     page => 21
 
 ==============================================================
 
