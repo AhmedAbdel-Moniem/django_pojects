@@ -1,15 +1,7 @@
-Learning Python - Mark Lutz :	page => 1109
+Learning Python - Mark Lutz :	page => 1261
 
-Test Your Knowledge: Part VI Exercises
-
+Managed Attributes
 
 ==============================================================
-
-
-Eloquent JavaScript -           page => 220
-
-
-================================================
-
 
 21799120
