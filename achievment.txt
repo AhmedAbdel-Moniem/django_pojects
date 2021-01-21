@@ -2,7 +2,7 @@ Learning Python - Mark Lutz :	page => 1261
 
 ==============================================================
 
-Antonio Mele - Django 3 by example:     page => 21
+Antonio Mele - Django 3 by example:     page => 30
 
 ==============================================================
 
