@@ -5,7 +5,6 @@ from django.db.models.expressions import OrderBy
 from django.db.models.query import QuerySet
 from django.forms.forms import Form
 from django.shortcuts import render, get_object_or_404
-# from typing_extensions import Annotated
 from .models import Post, Comment
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.views.generic import ListView
