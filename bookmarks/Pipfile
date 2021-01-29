@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 social-auth-app-django = "==3.1.0"
+certifi = "*"
 
 [dev-packages]
 
