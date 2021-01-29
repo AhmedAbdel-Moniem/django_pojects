@@ -31,10 +31,22 @@
         {% endif %}
         </span>
         </div>
+        <div>
+            {% if messages %}
+                <ur class="messages">
+                    {% for message in messages %}
+                      <li class="{{ messages.tags }}">
+                          {{ messages|safe }}
+                          <a href="#" class="close">X</a>
+                      </li>
+                    {% endfor %}
+                </ur>
+            {% endif %}
+                
+        </div>
         <div id="content">
             {% block content %}
             {% endblock %}
-
             <!-- {% block dashboard %}
             {% endblock  %} -->
 </body>
