@@ -2,11 +2,11 @@ Learning Python - Mark Lutz :	page => 1261
 
 ==============================================================
 
-Antonio Mele - Django 3 by example:     page => 30
+Antonio Mele - Django 3 by example:     page => 200
 
 ==============================================================
 
-Vue:        15vid  core&basics
+Vue:        25   vid  core&basics
 
 ==============================================================
 
