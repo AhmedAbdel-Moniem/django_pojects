@@ -1,4 +1,4 @@
-Learning Python - Mark Lutz :	page => 1261
+Learning Python - Mark Lutz :	page => 1271   
 
 ==============================================================
 
@@ -7,6 +7,14 @@ Antonio Mele - Django 3 by example:     page => 200
 ==============================================================
 
 Vue:        25   vid  core&basics
+
+==============================================================
+
+Grokking Algorithms     -   page:        Hash Tables
+
+==============================================================
+
+David Flanagan:JavaScript - The DEfinitive Guide: => Page: 44
 
 ==============================================================
 

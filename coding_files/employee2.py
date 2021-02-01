@@ -3,42 +3,42 @@ from employees import PizzaRobot
 
 
 class Employee:
-    def __init__(self, name, salary=0):
-        self.name   = name
+    def __init__(self, _name, salary=0):
+        self._name   = _name
         self.salary = salary
 
     def giveRaise(self, percent):
         self.salary = self.salary + (self.salary * percent)
 
     def work(self):
-        print(self.name, 'does stuff')
+        print(self._name, 'does stuff')
 
     def __repr__(self):
-        return "<Employee: name=%s, salary= %s>" % (self.name, self.salary)
+        return "<Employee: _name=%s, salary= %s>" % (self._name, self.salary)
 
 
 class Chef(Employee):
-    def __init__(self, name):
-        Employee.__init__(self, name, 1000)
+    def __init__(self, _name):
+        Employee.__init__(self, _name, 1000)
 
     def work(self):
-        print(self.name, "makes food")
+        print(self._name, "makes food")
 
 
 class Server(Employee):
-    def __init__(self, name):
-        Employee.__init__(self, name, 2000)
+    def __init__(self, _name):
+        Employee.__init__(self, _name, 2000)
 
     def work(self):
-        print(self.name, 'interfaces with customers')
+        print(self._name, 'interfaces with customers')
 
 
 class PIzzaRobot(Chef):
-    def __init__(self, name):
-        Chef.__init__(self, name)
+    def __init__(self, _name):
+        Chef.__init__(self, _name)
 
     def work(self):
-        print(self.name, 'makes pizza')
+        print(self._name, 'makes pizza')
 
 
 if __name__ == "__main__":
